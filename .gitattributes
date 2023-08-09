@@ -1,0 +1,5 @@
+
+## Git attributes
+
+# Filter, to be used for clean and smudge, could be  *.js, *.go, *.java, etc..
+*.env filter=updateApiKey
